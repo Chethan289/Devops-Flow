@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27738" started-at="2018-07-04T04:35:36Z" finished-at="2018-07-04T04:36:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27738" started-at="2018-07-04T04:35:36Z" finished-at="2018-07-04T04:36:04Z">
+      <class name="com.tests.Test2">
+        <test-method status="PASS" signature="testGitHubLogin()[pri:0, instance:com.tests.Test2@47f37ef1]" name="testGitHubLogin" duration-ms="27735" started-at="2018-07-04T10:05:36Z" finished-at="2018-07-04T10:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGitHubLogin -->
+      </class> <!-- com.tests.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
